@@ -10,8 +10,11 @@
 
 <br>
 <b>Project Explanation</b>  
-- 4 waypoints are made by using Matlab  
-- Vehicle Kinematics is based on Unicycle Model  
+
+- 4 waypoints are made by using Matlab
+
+- Vehicle Kinematics is based on Unicycle Model
+  
 - Used PD control  
 - Compare difference of path between including (LOS error & Cross Track error) and not  
 - Compare difference of path about making radius acceptence of waypoint lager and smaller  
