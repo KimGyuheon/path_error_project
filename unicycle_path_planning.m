@@ -14,7 +14,7 @@ err_cte_old = 0;
 wp_list = [ [0; 0], [20; 0], [20; 20], [0; 20], [0; 0] ];
 wp_idx = 1;
 
-R_acc = 2.0; % acceptance radius
+R_acc = 1.0; % acceptance radius
 
 figure; 
 plot(wp_list(1,:), wp_list(2,:), 'k.', 'markersize', 14); hold on; grid on;
@@ -52,7 +52,7 @@ while(wp_idx < size(wp_list,2))
 
 
     kp_psi_cte = 0.5;
-    kd_psi_cte = 1.5;
+    kd_psi_cte = 1.0;
     error_cte = err_dist * sin(beta);
     error_cte_dot = (error_cte - err_cte_old)/dt;
 
