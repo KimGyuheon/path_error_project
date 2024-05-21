@@ -1,9 +1,9 @@
 # path_error_project
 
  
- <b>Topic</b> : Study of path planning (including Line Of Sight Error & Cross track error)
+ <b>Topic</b> : Study of waypoint following (including Line Of Sight Error & Cross track error)
 
-<b>Related Course</b> : 이동로봇공학
+<b>Related Course</b> : 이동로봇공학 (Mobile Robotics)
 
 <b>Date</b> : 2022.11
 
