@@ -1,7 +1,7 @@
-# path_error_project
+# path_error_project : Guidance Path Tracking
 
  
- <b>Topic</b> : Study of waypoint following (including Line Of Sight Error & Cross track error)
+ <b>Topic</b> : Study of Tracking Guidance path & waypoint following (including Line Of Sight Error & Cross track error)
 
 <b>Related Course</b> : 이동로봇공학 (Mobile Robotics)
 
